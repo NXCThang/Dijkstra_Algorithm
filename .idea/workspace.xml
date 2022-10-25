@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37367bb4-ea30-43fb-bf9e-fefeaa0cdfd1" name="Changes" comment="" />
+    <list default="true" id="37367bb4-ea30-43fb-bf9e-fefeaa0cdfd1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dijkstra_Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dijkstra_Alg/GGSherpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dijkstra_Alg/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Victory/IdeaProjects/Dijkstra_Algorithm_Test"
+    "last_opened_file_path": "C:/Users/Victory/IdeaProjects/Dijkstra_Algorithm"
   }
 }]]></component>
   <component name="RunManager">
@@ -67,8 +76,8 @@
       <updated>1666333406102</updated>
       <workItem from="1666333407758" duration="905000" />
       <workItem from="1666459248338" duration="2481000" />
-      <workItem from="1666545205036" duration="18000" />
-      <workItem from="1666546091920" duration="2572000" />
+      <workItem from="1666544918093" duration="300000" />
+      <workItem from="1666692623104" duration="485000" />
     </task>
     <servers />
   </component>
